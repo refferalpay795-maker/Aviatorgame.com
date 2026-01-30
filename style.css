@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.red { background: red; color: white; }
+.green { background: green; color: white; }
+.violet { background: purple; color: white; }
+
+.timer {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 22px;
+}
